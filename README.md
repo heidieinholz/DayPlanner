@@ -6,6 +6,11 @@ To better organize your workday, utilize an interactive Day Planner that stores 
 
 To keep on top of the progress of the day, the assignments are color-coded.  Grey indicates the past, red indicates the present hour, and green indicates future hours.
 
+Simply type your assigments ito the text box and click the save button, notated with a lock icon.
+
+### Languages used:
 This planner utilizes jQuery, HTML, and CSS.
+
+
 
 
